@@ -1,0 +1,10 @@
+body{
+	background-color: #202020;
+	color: white;
+}
+p{
+	/*text-indent: 50px;*/
+}
+img{
+	max-width: 100%;
+}
